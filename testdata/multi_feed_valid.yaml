@@ -1,0 +1,6 @@
+commafeedSetup:
+  - category: layer1 / layer2 / layer3
+    feeds:
+      - name: Commafeed Releases
+        url: "https://github.com/Athou/commafeed/releases"
+    

@@ -1,0 +1,23 @@
+commafeedSetup:
+  - category: Dev/Releases
+    feeds:
+      - name: K9s Releases
+        url: "https://github.com/derailed/k9s/releases"
+
+  - category: Self-Hosting / Software Releases
+    feeds:
+      - name: Jellyfin Releases
+        url: "https://github.com/jellyfin/jellyfin/releases"
+      - name: Pihole Releases
+        url: "https://github.com/pi-hole/pi-hole/releases"
+      - name: Authentik Releases
+        url: "https://github.com/goauthentik/authentik/releases"
+      - name: Commafeed Releases
+        url: "https://github.com/Athou/commafeed/releases1"
+      - name: Commafeed Releases CLONE
+        url: "https://github.com/Athou/commafeed/releases"
+
+
+  - category: homeserver/releases
+    feeds:
+

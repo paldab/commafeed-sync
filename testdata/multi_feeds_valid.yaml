@@ -1,0 +1,31 @@
+commafeedSetup:
+  - category: Test1
+    feeds:
+      - name: Commafeed Releases
+        url: "https://github.com/Athou/commafeed/releases"
+
+  - category: Test2
+    feeds:
+      - name: Hacker News
+        url: "https://hnrss.org/frontpage"
+
+
+  - category: Test3
+    feeds:
+      - name: BCC
+        url: "https://feeds.bbci.co.uk/news/world/rss.xml"
+      - name: Nasa
+        url: "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+        disabled: true # Optional, defaulted false
+      - name: Commafeed Releases
+        url: "https://github.com/Athou/commafeed/releases"
+
+  - category: Test4
+    feeds:
+      - name: Commafeed Releases
+        url: "https://github.com/Athou/commafeed/releases"
+      - name: Reddit golang
+        url: "https://www.reddit.com/r/golang/.rss"
+
+
+

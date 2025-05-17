@@ -1,0 +1,46 @@
+commafeedSetup:
+  - category: Dev / Releases
+    feeds:
+      - name: K9s Releases
+        url: "https://github.com/derailed/k9s/releases"
+
+  - category: Dev / Kubernetes
+    feeds:
+      - name: K3s Releases
+        url: "https://github.com/k3s-io/k3s/releases"
+      - name: Kubernetes Releases
+        url: "https://github.com/kubernetes/kubernetes/releases"
+
+  - category: Self-Hosting / Bootstrap / Software Releases
+    feeds:
+      - name: Cert-Manager Releases
+        url: "https://github.com/cert-manager/cert-manager/releases"
+      - name: MetalLb Releases
+        url: "https://github.com/metallb/metallb/releases"
+      - name: Trivy Releases
+        url: "https://github.com/aquasecurity/trivy-operator/releases"
+
+  - category: Self-Hosting / Core / Software Releases
+    feeds:
+      - name: ArgoCD Releases
+        url: "https://github.com/argoproj/argo-cd/releases"
+      - name: Pihole Releases
+        url: "https://github.com/pi-hole/pi-hole/releases"
+      - name: Authentik Releases
+        url: "https://github.com/goauthentik/authentik/releases"
+      - name: Grafana Releases
+        url: "https://github.com/grafana/grafana/releases"
+
+  - category: Self-Hosting / Apps / Personal / Interests
+    feeds:
+      - name: Homepage Releases
+        url: "https://github.com/gethomepage/homepage/releases"
+      - name: Commafeed Releases
+        url: "https://github.com/Athou/commafeed/releases"
+      - name: Longhorn Releases
+        url: "https://github.com/longhorn/longhorn/releases"
+      - name: Mealie Releases
+        url: "https://github.com/mealie-recipes/mealie/releases"
+        disabled: true
+
+

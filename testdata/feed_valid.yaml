@@ -1,0 +1,6 @@
+commafeedSetup:
+  - category: Unnested
+    feeds:
+      - name: Commafeed Releases
+        url: "https://github.com/Athou/commafeed/releases"
+

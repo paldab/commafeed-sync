@@ -1,0 +1,7 @@
+commafeedSetup:
+  - category: Dev
+    feeds:
+
+  - category: homeserver/releases
+    feeds:
+
